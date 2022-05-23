@@ -7,6 +7,9 @@ var proxy = "__PROXY__";
 
 var userrules = [];
 var rules = [
+  "||wixsite.com",
+  "||office.net",
+  "||westsideusd.org",
   "||office365.com",
   "||presto-changeo.com",
   "||parastorage.com",
