@@ -7,6 +7,10 @@ var proxy = "__PROXY__";
 
 var userrules = [];
 var rules = [
+  "||presto-changeo.com",
+  "||parastorage.com",
+  "||upload.wikimedia.org",
+  "||aka.ms",
   "wikia.nocookie.net",
   ".wikia.nocookie.net",
   "||wikia.nocookie.net",
