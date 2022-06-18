@@ -7,6 +7,11 @@ var proxy = "__PROXY__";
 
 var userrules = [];
 var rules = [
+  "||saucenao.com",
+  "||18comic.org",
+  "||18comic.vip",
+  "||minecraftservices.com",
+  "||xboxlive.com",
   "||nro.gov",
   "||washingtonpost.com",
   "www.downloadhelper.net",
