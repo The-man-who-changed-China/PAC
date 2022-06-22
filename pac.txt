@@ -16,7 +16,7 @@ var rules = [
   "||washingtonpost.com",
   "www.downloadhelper.net",
   "||downloadhelper.net",
-  "||store.akamai.steamstatic.com",
+  //"||store.akamai.steamstatic.com",
   "||wixsite.com",
   "||office.net",
   "||westsideusd.org",
